@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CompassoUol",
+    "slug": "CompassoUol",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CompassoUol"
+}
